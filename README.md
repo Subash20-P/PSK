@@ -53,7 +53,9 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
-# Output Waveform![psk](https://github.com/user-attachments/assets/bc16a84c-522a-401a-86f0-87673d6b24a7)
+# Output Waveform
+![psk](https://github.com/user-attachments/assets/bc16a84c-522a-401a-86f0-87673d6b24a7)
+![WhatsApp Image 2025-05-10 at 23 05 43_43324383](https://github.com/user-attachments/assets/0b706c7b-c300-4399-bf3c-312a94051d4a)
 
 
 # Results
